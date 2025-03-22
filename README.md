@@ -1,3 +1,6 @@
+![Capture](https://github.com/user-attachments/assets/cbff1ccb-733d-4994-8a5b-cc409598aae7)
+
+
 # Frontend Framework Performance Benchmark
 
 This repository contains a performance comparison of four popular frontend frameworks (React, Angular, Vue, and Svelte) implementing the same to-do list application.
